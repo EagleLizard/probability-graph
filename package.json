@@ -1,0 +1,14 @@
+{
+  "name": "probability-graph",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EagleLizard",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^8.0.31"
+  }
+}
