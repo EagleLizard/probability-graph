@@ -9,6 +9,7 @@
   "author": "EagleLizard",
   "license": "MIT",
   "dependencies": {
-    "@types/node": "^8.0.31"
+    "@types/node": "^8.0.31",
+    "typescript": "^2.5.3"
   }
 }

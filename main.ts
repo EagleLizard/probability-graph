@@ -13,6 +13,6 @@ main();
 
 function main(){
   let pGraph = new PGraph(testStr);
-  let roll = pGraph.roll(50, 'It');
+  let roll = pGraph.roll(15, 'It');
   console.log(PGraph.getSentence(roll));
 } 
